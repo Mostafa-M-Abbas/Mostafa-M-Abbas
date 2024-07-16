@@ -14,8 +14,6 @@
 - 🏢 I'm a Software Engineer
 - 👨‍💻 As a CSE student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with php, laravel, or anything related to web development.
-- 👨‍💻 Check out my portfolio at https://yousef-dergham.netlify.app/ to see some of the projects I've worked on.
-
 
 ### Connect with Me :
 
